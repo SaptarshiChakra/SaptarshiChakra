@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)](https://rishavchanda.io)
+[![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saptarshi Chakraborty</h1>
 <h3 align="center">Data whisperer, solving problems with algorithms and analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
